@@ -5,7 +5,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-// refence from live class of telusko channel in yt
+// refence from live class of telusko channel in yt.
 
 @Entity
 public class Student {
